@@ -1,7 +1,6 @@
-- I’m @howardthesheep. Software Consultant and Engineer.
-- Primary Interests: InfoSec, Game Design & Development, Artificial General Intelligence 
-- Current Practices: Web Design & Development, Desktop Applications(Native & Cross-platform), 
-                     Mobile Applications(Native & Cross-platform)
+# I’m @howardthesheep. Software Consultant and Engineer.
+# Primary Interests: InfoSec, Game Design & Development, Artificial General Intelligence 
+# Current Practices: Web Design & Development, Desktop Applications(Native & Cross-platform), Mobile Applications(Native & Cross-platform)
 
 I'm howardthesheep. I've been interested in computers and electronics for as long as I can 
 remember. In my early teens I began to learn basic software config & languages such as: html, css, 
