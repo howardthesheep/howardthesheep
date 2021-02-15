@@ -14,9 +14,9 @@ Midway through High School I picked up Java, my first 'software engineering' lan
 Then came C during college. Despite being very different in nature from web development, I really enjoyed 
 creating programs in these languages. Ever since then I've been learning languages & frameworks as required
 for projects.
-Some old: bash, ColdFusion, Perl, SQL, Haskell, Python
-Some new: React, React Native, Golang, HAML, SASS, QT,  Unity Engine, Node.js
-Some in-between: Ruby, C#
+- Some old: bash, ColdFusion, Perl, SQL, Haskell, Python
+- Some new: React, React Native, Golang, HAML, SASS, QT,  Unity Engine, Node.js
+- Some in-between: Ruby, C#
 
 At this point, language or framework doesn't matter. If you can conceptualize a logically valid system, I am
 certain I can model it in software. At the end of the day, everything is quantifiable data waiting for someone
