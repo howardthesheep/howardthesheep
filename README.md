@@ -15,7 +15,7 @@ Then came C during college. Despite being very different in nature from web deve
 creating programs in these languages. Ever since then I've been learning languages & frameworks as required
 for projects.
 - Some old: bash, ColdFusion, Perl, SQL, Haskell, Python
-- Some new: React, React Native, Golang, HAML, SASS, QT,  Unity Engine, Node.js
+- Some new: React, React Native, Golang, HAML, SASS, QT,  Unity Engine, Node.js, Flutter, Dart
 - Some in-between: Ruby, C#
 
 At this point, language or framework doesn't matter. If you can conceptualize a logically valid system, I am
